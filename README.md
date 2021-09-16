@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @talathel
-- 👀 I’m interested in developing apps for educational purposes and for mathematical computations.
+- 👀 I’m interested in developing apps for educational purposes, mathematical computations and visualization of physical processes.
 - 🌱 I’m currently learning C++, Java and C#.
 - 📫 You can reach me by ger.kirill.a@gmail.com or in Telegram by @talathel
 
