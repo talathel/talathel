@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @talathel
-- 👀 I’m interested in developing apps for educational purposes, mathematical computations, visualization of physical processes and in STM32 microcontrollers.
+- 👀 I’m interested in developing apps for educational purposes, mathematical computations, visualization of physical processes and in embedded programming.
 - 🌱 I’m currently learning C++.
-- 📫 You can reach me by ger.kirill.a@gmail.com or in Telegram by @talathel
+- 📫 You can reach me by gerasimov.ka@inbox.ru
 
 <!---
 - 💞️ I’m looking to collaborate on ...
