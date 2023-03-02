@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @talathel
 - 👀 I’m interested in developing apps for educational purposes, mathematical computations, visualization of physical processes and in embedded programming.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning C++, PHP.
 - 📫 You can reach me by gerasimov.ka@inbox.ru
 
 <!---
